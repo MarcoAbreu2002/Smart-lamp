@@ -7,4 +7,6 @@ To develop this work we have to create a code in C and Assembly language that is
 - Finally, the lamp will have to respond to a sound stimulus, more precisely the clapping of hands, i.e., after the sequence of clapping it should turn the light on. If the sequence is made again it should turn off.
 
 This is the architecture used:
+
+
 ![image](https://github.com/MarcoAbreu2002/Smart-lamp/assets/88538173/01932209-8cdb-4e32-93fd-3d16f40c6c63)
